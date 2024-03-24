@@ -1,2 +1,2 @@
-# PythonSkizm
+# OpenGL_Python
  
